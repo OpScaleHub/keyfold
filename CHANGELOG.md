@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## v0.11.0 — 2026-11-21
 
 ### Renamed to Keyfold (#108) — breaking; see UPGRADING.md
 
